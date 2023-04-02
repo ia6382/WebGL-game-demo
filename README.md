@@ -6,7 +6,11 @@ Later the project was expanded and ported to the Unity game engine - see the [SK
 
 Developed as a group project for Computer Graphics and Game Technology course at the University of Ljubljana, Faculty of Computer and Information Science in 2017.
 
+![screenshot](screenshot.png)
+
 ## HOW TO PLAY
+Click [here](https://ia6382.github.io/WebGL-game-demo/) to play in browser.
+
 Move with WASD keys, jump with space. Reach the spinning cube across the gap to complete the demo.
 
 ## CREDITS

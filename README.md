@@ -11,6 +11,8 @@ Developed as a group project for Computer Graphics and Game Technology course at
 ## HOW TO PLAY
 Click [here](https://ia6382.github.io/WebGL-game-demo/) to play in browser.
 
+Please wait a few moments before clicking play if experiencing any problems with level loading.
+
 Move with WASD keys, jump with space. Reach the spinning cube across the gap to complete the demo.
 
 ## CREDITS
